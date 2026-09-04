@@ -1,301 +1,159 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,14,16&text=Srinath%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=22&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=200&section=header&text=Srinath%20M&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=20" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+REST+APIs;Building+Real-World+Applications;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" />
 
 <br/>
 
 <a href="https://github.com/Srinath2786">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/srinathm-java">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://srinathcse.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://leetcode.com/u/srinathm27/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Java+%7C+Spring+Boot+%7C+React;Backend+%26+Full+Stack+Development;REST+APIs+%7C+Security+%7C+Databases;Building+Real-World+Applications"/>
-
 </div>
 
 ---
 
-## 👋 About
+## 👨‍💻 About Me
 
-> **Java Full Stack Developer focused on building secure, scalable and practical web applications.**
+Hi, I'm **Srinath M** — a **Java Full Stack Developer** and B.E. Computer Science & Engineering student graduating in **2027**.
 
-I'm **Srinath M**, a B.E. Computer Science and Engineering student graduating in **2027**.
+I enjoy building practical web applications using **Java, Spring Boot, React, REST APIs and SQL databases**.
 
-My development journey is centered around **Java, Spring Boot and modern web technologies**, with a strong interest in backend engineering, API development, authentication, database design and full-stack application development.
-
-I enjoy turning ideas into working products — from designing the backend architecture to building the frontend experience.
-
-```text
-Java Full Stack Developer
-        ↓
-Spring Boot + REST APIs
-        ↓
-Spring Security + JWT
-        ↓
-React + Modern UI
-        ↓
-PostgreSQL + MySQL
-        ↓
-Docker + Git + GitHub
-```
+Currently focused on improving my **backend development, Spring Boot, system design and DSA** skills.
 
 ---
 
-# ⚡ What I Build
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| 🔐 Secure Applications |     🌐 REST APIs     |     ⚛️ Full Stack    |
-| :--------------------: | :------------------: | :------------------: |
-|     Authentication     |      API Design      |         React        |
-|           JWT          |    Business Logic    | Frontend Integration |
-|    Role-Based Access   | Database Integration |     Responsive UI    |
+<img src="https://skillicons.dev/icons?i=java,spring,maven,react,js,html,css,tailwind,postgresql,mysql,docker,git,github,postman,vscode,idea" />
 
 </div>
-
----
-
-# 🧰 Technology
-
-<div align="center">
-
-### ☕ Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,maven"/>
-
-`Java` `Spring Boot` `Spring Security` `REST APIs` `JWT` `JPA` `Hibernate`
-
-### ⚛️ Frontend
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,vite,tailwind"/>
-
-`React` `JavaScript` `HTML` `CSS` `Vite` `Tailwind CSS`
-
-### 🗄️ Data
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql"/>
-
-`PostgreSQL` `MySQL` `SQL` `Database Design`
-
-### 🛠️ Engineering Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea"/>
-
-`Git` `GitHub` `Docker` `Postman` `VS Code` `IntelliJ IDEA`
-
-</div>
-
----
-
-# 🚀 Selected Work
-
-## 💻 AlgoForge
-
-### Coding Practice & Performance Assessment Platform
-
-**AlgoForge** is a full-stack coding platform built to provide a structured environment for **problem solving, code submissions and performance assessment**.
-
-<div align="center">
-
-`JAVA 17` `SPRING BOOT` `SPRING SECURITY` `JWT` `REACT` `POSTGRESQL` `DOCKER`
-
-</div>
-
-### Highlights
-
-**01 — Authentication**
-
-Secure authentication with JWT and role-based authorization.
-
-**02 — Problem Management**
-
-Create, manage, search and organize programming problems.
-
-**03 — Coding Environment**
-
-Integrated Monaco Editor for writing and editing solutions.
-
-**04 — Submission Workflow**
-
-Submit solutions and process programming submissions.
-
-**05 — Performance**
-
-Track coding activity and assessment-related performance.
-
-**06 — Multi-Role Platform**
-
-Dedicated experiences for **Students, Mentors and Administrators**.
 
 <br/>
 
-<div align="center">
+**Backend:** Java · Spring Boot · Spring Security · REST APIs · JWT · JPA / Hibernate
+
+**Frontend:** React · JavaScript · HTML · CSS · Vite · Tailwind CSS
+
+**Database:** PostgreSQL · MySQL · SQL
+
+**Tools:** Git · GitHub · Docker · Postman · VS Code · IntelliJ IDEA
+
+---
+
+## 🚀 Projects
+
+### 💻 AlgoForge
+
+**Web Platform for Coding Practice & Performance Assessment**
+
+A full-stack coding platform for **programming practice, problem management, code submissions and performance assessment**.
+
+**Tech:** `Java 17` `Spring Boot` `Spring Security` `JWT` `React` `PostgreSQL` `Docker`
+
+**Highlights**
+
+* 🔐 Authentication & role-based access
+* 🧩 Problem management
+* 💻 Monaco code editor
+* 📤 Code submissions
+* 📊 Performance tracking
+* 👨‍🎓 Student · Mentor · Admin modules
 
 <a href="https://github.com/Srinath2786/AlgoForge">
-<img src="https://img.shields.io/badge/VIEW%20ALGOFORGE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20AlgoForge-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
 
 ---
 
-## 🍽️ SafeBite
+### 🍽️ SafeBite
 
-### Food Safety Monitoring System
+**Food Safety Monitoring System**
 
-**SafeBite** is a full-stack application focused on **food safety monitoring, risk assessment and alerts**.
+A full-stack application for **food safety monitoring, risk assessment and alerts**.
 
-<div align="center">
+**Tech:** `Java 17` `Spring Boot` `React` `PostgreSQL` `REST APIs`
 
-`JAVA 17` `SPRING BOOT` `REACT` `POSTGRESQL` `REST API`
+**Highlights**
 
-</div>
-
-### Highlights
-
-* 🔐 Secure backend APIs
-* 🧮 Food safety risk assessment
-* 🚨 Risk-based alerts
+* 🧮 Risk assessment
+* 🚨 Safety alerts
 * 📊 Monitoring dashboard
-* 🗄️ PostgreSQL data persistence
-* 📱 QR / barcode-based product identification
-
-<br/>
-
-<div align="center">
+* 🔐 Secure REST APIs
+* 🗄️ PostgreSQL persistence
+* 📱 QR / barcode product identification
 
 <a href="https://github.com/Srinath2786/SafeBite">
-<img src="https://img.shields.io/badge/VIEW%20SAFEBITE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20SafeBite-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-<div align="center">
-
-### Infosys Springboard · Internship 7.0
+### Infosys Springboard — Internship 7.0
 
 **Java Technology Domain · 2026**
 
-</div>
-
-Working on:
-
-### Web Platform for Coding Practice and Performance Assessment
-
-**Technology**
+Working on a **Web Platform for Coding Practice and Performance Assessment**.
 
 `Java 17` · `Spring Boot` · `Spring Security` · `React` · `MySQL` · `JWT` · `Docker`
 
-Focused on full-stack development involving:
-
-`REST APIs` · `Authentication` · `Authorization` · `Database Design` · `Problem Management` · `Submission Workflows`
+Focused on **REST APIs, authentication, database design and full-stack development**.
 
 ---
 
-# 🧠 Problem Solving
+## 🧠 Problem Solving
 
-I actively practice **Data Structures & Algorithms using Java**.
+Practicing **Data Structures & Algorithms using Java**.
 
-<div align="center">
+`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Sliding Window`
 
-`Arrays` · `Strings` · `Hashing` · `Two Pointers`
-
-`Sliding Window` · `Binary Search` · `Sorting`
-
-`Recursion` · `Linked Lists` · `Stack` · `Queue`
-
-<br/>
+`Binary Search` · `Sorting` · `Recursion` · `Linked Lists` · `Stack` · `Queue`
 
 <a href="https://leetcode.com/u/srinathm27/">
-<img src="https://img.shields.io/badge/LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-</div>
+---
+
+## 🎓 Education
+
+**B.E. Computer Science and Engineering**
+Erode Sengunthar Engineering College
+
+**Expected Graduation:** 2027
 
 ---
 
-# 🎓 Education
+## 📜 Certification
 
-### B.E. Computer Science & Engineering
-
-**Erode Sengunthar Engineering College**
-
-`Expected Graduation — 2027`
+**HTML, CSS & JavaScript Nodejs & spring boot** — Infosys Springboard
 
 ---
-
-# 📜 Certification
-
-### HTML · CSS · JavaScript
-
-**Infosys Springboard**
-
----
-
-# 📌 Developer Snapshot
 
 <div align="center">
 
-|                      |                           |
-| :------------------- | :------------------------ |
-| **Role**             | Java Full Stack Developer |
-| **Primary Language** | Java                      |
-| **Backend**          | Spring Boot               |
-| **Security**         | Spring Security · JWT     |
-| **Frontend**         | React                     |
-| **Databases**        | PostgreSQL · MySQL        |
-| **API Style**        | REST                      |
-| **Containerization** | Docker                    |
-| **Problem Solving**  | Java · DSA                |
-| **Graduation**       | 2027                      |
+### Let's Connect
 
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-### Interested in Java, Backend & Full Stack Development?
-
-<br/>
-
-<a href="https://linkedin.com/in/srinathm-java">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://srinathcse.netlify.app">
-<img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:cse.srinathm@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/srinathm-java">LinkedIn</a>
+  •   <a href="https://srinathcse.netlify.app">Portfolio</a>
+  •   <a href="mailto:cse.srinathm@gmail.com">Email</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Srinath2786&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"/>
-
-<br/><br/>
-
-**Build • Solve • Learn • Improve**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:2563EB&height=100&section=footer"/>
 
 </div>
